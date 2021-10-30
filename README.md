@@ -1,5 +1,5 @@
 # mod-2-challenge
-##Purpose
+## Purpose
 A website that showcases my skills as a web developer and generate interest during the hiring process.
 
 ## Built With
