@@ -7,11 +7,11 @@ A website that showcases my skills as a web developer and generate interest duri
 * CSS
 
 ## Website
-<!-- <add link here> --!>
+add link here
   
 ## Contribution
  @oatbanger.git
   
-### &copy 2020 Oatbanger Inc.
+### 2020 Oatbanger Inc.
 
 
