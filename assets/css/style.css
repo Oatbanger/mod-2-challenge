@@ -67,16 +67,17 @@ header nav ul li a {
 .hero {
     padding: 2rem  200px; 
     margin: 10px 50px;
-    display: flex;
-    text-align: center;
+    display:flex;
+    justify-content: center;
+    text-align: left;
     color: var(--quaternary-color);
     background-color: var(--primary-color);
-    ;
+    border-radius: 15px 15px;
+    border: solid 2px var(--quinary-color);
 }
 
 #hero-cta h2 {
     color: var(--tertiary-color);
-
 }
 
 
