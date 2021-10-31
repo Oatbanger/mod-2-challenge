@@ -65,11 +65,12 @@ header nav ul li a {
 }
 
 .hero {
-    border: 25px 25px 25px 25px;
-    margin: 25px 35px;
+    padding: 2rem  200px; 
+    margin: 10px 50px;
     display: flex;
     text-align: center;
     color: var(--quaternary-color);
+    background-color: var(--primary-color);
     ;
 }
 
